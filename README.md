@@ -46,10 +46,10 @@
         - Look, this ship was hit by rock in shallow water.
     - Difference Engine(差分机)
         - It was the first mechanical computer, invented by Charles Babbage, and because of this mechanical machine, Charles Babbage was considered as "father of the computer".
-        - But it's not convenient for inputing data, and he also realized there was a much more general design can be applied on this machine.
+        - But it's not convenient for data input, and he also realized there was a much more general design can be applied on this machine.
         - So, in 1833, a programmable computer was invented.
     - Analytical Engine
-        - The input of programs and data can be provided via punched cards.
+        - The input of data and programs can be provided via punched cards.
         - For output, there must be a printer for this machine, because there was no screen or projector at that time.
         - However, all the parts of this machine had to be done by hand, this was the biggest problem for a device which contained thousands of parts. In other words, while this machine was working, there must be a lot of operators standing by it.
         - Eventually, as you can see, this project was stopped by the decision of the British Government with cutting off financial support.
@@ -71,15 +71,19 @@
         - Generally speaking, if someone mentions the first computer, that computer is ENIAC.
         - Without exaggeration, it just like a monster, it occupied such a large place to 167 m2 and consumed 150 KW of electricity. This power requirement was crazy, so that whenever this computer was switched on, the lights of all city were getting dark(dimmed).
 - Transistor was invented
+    - Transistor was invented in 1947.
     - TRADIC
         - TRADIC was not the first transistor computer in the world, but it was the first transistor computer in the USA
-        - it was born in the quite famous place -- Bell Labs.
-        - Bell Labs has owned more than 25 thousand patents. It's very legendary.
+        - It was born in the quite famous place -- Bell Labs.
+        - Bell labs is very legendary, because by now, it has owned more than 25 thousand patents. It's an amazing number.
 - Integrated circuit
     - The Integrated circuit is a small chip with large numbers of tiny transistors.
     - There are two main advantages over integrated circuit: cost and performance.
     - Cost is low because all transistors are integrated into a small chip, so that it needs less material.
     - Performance is high because the IC components switch quickly and consume little power.
+- Microprocessor
+- AI
+    - AI is that the human intelligence is shown by the machines.
 
 - Let's review the generations we have mentioned before
 - Generation of computer
