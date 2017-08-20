@@ -1,7 +1,7 @@
 ## computer history
 
 - (first page) Computer History
-    - Today, I am here to talk about computer history. Some of you guys maybe know that the first computer was born in 1946 in America.
+    - Today, I am here to talk about computer history. Some of you guys maybe know that the first computer was born in 1946 in America for United States Army.
     - Actually, the history of computer is not just like that. Today, I will bring you something about computer you haven't known before.
 - (warm up) Asking a question
     - Okay, Before we begin, let me ask you guys one question. Do you know how the ancient people calculate and record the numbers?
@@ -33,56 +33,50 @@
             - For an abacus skillful user, who can do addition and subtraction as fast as the person who uses electronic calculator.
             - However, multiplication and division are much slower.
             - Actually, the Chinese abacus is a representation of the human fingers: the 5 lower rings represent our 5 fingers and the upper tow rings represent both of our hands.
-            - (And as far as I know, it had been used do arithmetic for a long time in China. It was pretty common until the electronic calculator was introduced into China. In my memory, when I was in Primary school, the Suanpan course was the compulsory course.)
     - OKay, let's move to something more mechanical.
 - Mechanical generation
-    - Antikythera mechanism
-        - It's believed to be the first mechanical analog "computer".
-        - It was designed to calculate and simulate the astronomical positions.
-        - It was discovered in 1901 in the Greek island
     - Tide predicting machine
         - Tide predicting machine was invented by the famous British mechanical engineer William Thomson.
         - It was beneficial for sailing navigation in shallow waters.
         - Look, this ship was hit by rock in shallow water.
     - Difference Engine(差分机)
-        - It was the first mechanical computer, invented by Charles Babbage, and because of this mechanical machine, Charles Babbage was considered as "father of the computer".
+        - It was the first mechanical computer,
         - But it's not convenient for data input, and he also realized there was a much more general design can be applied on this machine.
         - So, in 1833, a programmable computer was invented.
     - Analytical Engine
+        - It was the first mechanical and programmable computer, invented by Charles Babbage, who was considered as "father of the computer".
         - The input of data and programs can be provided via punched cards.
-        - For output, there must be a printer for this machine, because there was no screen or projector at that time.
+        - For output, there must be a printer for this machine, because there was no screen, projector or any other display devices at that time.
         - However, all the parts of this machine had to be done by hand, this was the biggest problem for a device which contained thousands of parts. In other words, while this machine was working, there must be a lot of operators standing by it.
         - Eventually, as you can see, this project was stopped by the decision of the British Government with cutting off financial support.
-        - It seems that everything was over, but in fact, this machine inspires a lot for the next generation computer.
+        - It seems that everything was over, but in fact, the concept of this machine inspires the next generation computer a lot.
 - Vacuum tube generation
     - vacuum tube
-        - vacuum tube was invented in 1947.
-        - It was used as switch instead of the mechanical switch.
-        - And it is smaller than the mechanical one, it was controlled by electricity,
-    - Colossus
-        - Colossus was the first electronic digital programmable computing device, and was used to break German ciphers during World War II.
-        - It used such a large number of vacuum tubes that .
+        - What is vacuum tube?
+        - The vacuum tube is a device to control the electric current from a side to another side.
+        - Yeah, it's a electric switch.
+        - And it is smaller, more flexible than this mechanical one.
     - ENIAC (Electronic Numerical Integrator and Computer)
-        - It was the first all-electronic programmable computer built in the US for United States Army.
-        - It was much faster, more flexible, and it was the first Turing-complete device.
-        - It could add or subtract 5000 times a second, a thousand times faster than any other machine at the same period.
-        - And it also had modules to multiply, divide, and square root.
-        - However, once a program was written, it had to be manually reset via the physical plugs and switches. It means, there must be a lot of operators while this big monster was working.
-        - Generally speaking, if someone mentions the first computer, that computer is ENIAC.
-        - Without exaggeration, it just like a monster, it occupied such a large place to 167 m2 and consumed 150 KW of electricity. This power requirement was crazy, so that whenever this computer was switched on, the lights of all city were getting dark(dimmed).
+        - It was the first all-electronic programmable computer.
+        - It was built in 1946 for the United States Army.
+        - It could do addition 5000 times in one second, a thousand times faster than any other machine at the same generation.
+        - By the way, it just like a monster, it occupied such a large place to 167 m2. And the power requirement was so crazy, whenever it was switched on, the lights of all city were dimmed.
+        - Yeah, It's crazy.
 - Transistor was invented
-    - Transistor was invented in 1947.
+    - Transistor was a electronic switch as well, but it's made of silicon.
+    - And it's more smaller, lower power consumption.
     - TRADIC
         - TRADIC was not the first transistor computer in the world, but it was the first transistor computer in the USA
-        - It was born in the quite famous place -- Bell Labs.
-        - Bell labs is very legendary, because by now, it has owned more than 25 thousand patents. It's an amazing number.
+        - It was born in the legendary place -- Bell Labs.
+        - Yeah, Bell Labs was famous in America.
 - Integrated circuit
     - The Integrated circuit is a small chip with large numbers of tiny transistors.
     - There are two main advantages over integrated circuit: cost and performance.
-    - Cost is low because all transistors are integrated into a small chip, so that it needs less material.
+    - Cost is low because a lot of transistors are integrated into a small chip, so that it needs less material.
     - Performance is high because the IC components switch quickly and consume little power.
 - Microprocessor
-- AI
+    - xx
+- Artificial Intelligence
     - AI is that the human intelligence is shown by the machines.
 
 - Let's review the generations we have mentioned before
@@ -96,4 +90,4 @@
     - Fourth generation (1971-now)
         - Microprocessor
     - Fifth generation (present and beyond)
-        - AI
+        - Artificial Intelligence
