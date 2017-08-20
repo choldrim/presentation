@@ -27,22 +27,12 @@
         - Roman abacus
             - The Roman abacus was invented much earlier than the Chinese one.
         - Chinese abacus
-            - In China, we call that as Suanpan.
-            - The earliest Chinese abacus can be dated to the 2nd century BC.
+            - In China, we call this one as Suanpan.
             - It can do addition, subtraction, multiplication and division.
             - For an abacus skillful user, who can do addition and subtraction as fast as the person who uses electronic calculator.
-            - However, multiplication and division are much slower.
             - Actually, the Chinese abacus is a representation of the human fingers: the 5 lower rings represent our 5 fingers and the upper tow rings represent both of our hands.
     - OKay, let's move to something more mechanical.
 - Mechanical generation
-    - Tide predicting machine
-        - Tide predicting machine was invented by the famous British mechanical engineer William Thomson.
-        - It was beneficial for sailing navigation in shallow waters.
-        - Look, this ship was hit by rock in shallow water.
-    - Difference Engine(差分机)
-        - It was the first mechanical computer,
-        - But it's not convenient for data input, and he also realized there was a much more general design can be applied on this machine.
-        - So, in 1833, a programmable computer was invented.
     - Analytical Engine
         - It was the first mechanical and programmable computer, invented by Charles Babbage, who was considered as "father of the computer".
         - The input of data and programs can be provided via punched cards.
@@ -53,9 +43,8 @@
 - Vacuum tube generation
     - vacuum tube
         - What is vacuum tube?
-        - The vacuum tube is a device to control the electric current from a side to another side.
-        - Yeah, it's a electric switch.
-        - And it is smaller, more flexible than this mechanical one.
+        - The vacuum tube is a switch to control the current going from a side to another side.
+        - (Yeah, it's a electric switch.)
     - ENIAC (Electronic Numerical Integrator and Computer)
         - It was the first all-electronic programmable computer.
         - It was built in 1946 for the United States Army.
@@ -68,16 +57,19 @@
     - TRADIC
         - TRADIC was not the first transistor computer in the world, but it was the first transistor computer in the USA
         - It was born in the legendary place -- Bell Labs.
-        - Yeah, Bell Labs was famous in America.
+        - Yeah, Bell Labs was quite famous in the world.
 - Integrated circuit
     - The Integrated circuit is a small chip with large numbers of tiny transistors.
-    - There are two main advantages over integrated circuit: cost and performance.
-    - Cost is low because a lot of transistors are integrated into a small chip, so that it needs less material.
+    - There are two main advantages over integrated circuit: lower cost and higher performance.
+    - Cost is low because a lot of transistors are integrated into a small chip, so it needs less material.
     - Performance is high because the IC components switch quickly and consume little power.
 - Microprocessor
     - xx
 - Artificial Intelligence
     - AI is that the human intelligence is shown by the machines.
+    - Alpha go
+        - It was the first time for a machine to beat a human professional Go player.
+        - Yeah, that was a quite hot news last year.
 
 - Let's review the generations we have mentioned before
 - Generation of computer
@@ -91,3 +83,5 @@
         - Microprocessor
     - Fifth generation (present and beyond)
         - Artificial Intelligence
+    - As you can see, all the generations are toward smaller, faster, ...
+    - I believe that the machines can do more and more complex and significant things in the future.
